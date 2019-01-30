@@ -1,0 +1,1 @@
+Arctic polls is a Discord bot that makes ice-cold Polls!
